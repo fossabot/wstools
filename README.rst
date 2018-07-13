@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpycontribs%2Fwstools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpycontribs%2Fwstools?ref=badge_shield)
+
 =========================================================
 WSDL parsing services package for Web Services for Python
 =========================================================
@@ -65,3 +67,7 @@ Contributors
    :target: https://travis-ci.org/kartoch/wstools
 .. |Coverage Status| image:: https://img.shields.io/coveralls/kartoch/wstools.svg
    :target: https://coveralls.io/r/kartoch/wstools?branch=master
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpycontribs%2Fwstools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpycontribs%2Fwstools?ref=badge_large)
